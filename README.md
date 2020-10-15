@@ -5,3 +5,5 @@ The next special string ill be in the next sentence
 Hello there, the special word is thisisteststringnumber2 and it is pretty cool
 Finally we will test it with no space between the special string like so...
 blahblahblahheiristdertestzeichenfolgedreiblahblah
+
+Just writing here to get our repo on the public events list
